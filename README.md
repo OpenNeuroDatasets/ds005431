@@ -9,8 +9,8 @@
 - Scanner: 7T MRI scanner (BioSpec 70/16, Bruker Biospin GmbH, Ettlingen, Germany)
 - Gradient System: Actively shielded gradients with a maximum strength of 700 mT/m
 - Coils:
--- Volume coils: φ 22 mm, 38 mm, 62 mm, and 72 mm (Bruker Biospin GmbH, Ettlingen, Germany)
--- Solenoid coils: φ 16 mm and 30 mm (Takashima Seisakusho, Tokyo, Japan)
+    - Volume coils: φ 22 mm, 38 mm, 62 mm, and 72 mm (Bruker Biospin GmbH, Ettlingen, Germany)
+    - Solenoid coils: φ 16 mm and 30 mm (Takashima Seisakusho, Tokyo, Japan)
 Coil selection was based on sample size.
 
 ## b. For Large Brains (e.g., bamboo mouse)
