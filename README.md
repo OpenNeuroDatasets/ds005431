@@ -9,8 +9,8 @@
 - Scanner: 7T MRI scanner (BioSpec 70/16, Bruker Biospin GmbH, Ettlingen, Germany)
 - Gradient System: Actively shielded gradients with a maximum strength of 700 mT/m
 - Coils:
-    - Volume coils: φ 22 mm, 38 mm, 62 mm, and 72 mm (Bruker Biospin GmbH, Ettlingen, Germany)
-    - Solenoid coils: φ 16 mm and 30 mm (Takashima Seisakusho, Tokyo, Japan)
+  - Volume coils: φ 22 mm, 38 mm, 62 mm, and 72 mm (Bruker Biospin GmbH, Ettlingen, Germany)
+  - Solenoid coils: φ 16 mm and 30 mm (Takashima Seisakusho, Tokyo, Japan)
 Coil selection was based on sample size.
 
 ## b. For Large Brains (e.g., bamboo mouse)
@@ -21,20 +21,20 @@ Coil selection was based on sample size.
 ## a. 3D Anatomical Imaging (rapid acquisition with relaxation enhancement (RARE) sequence)
 - Method: RARE
 - Parameters:
-	O Echo time (TE): 20 ms
-	O Repetition time (TR): 300 ms
-	O RARE factor: 4
-	O Number of averages: 1–8 (adjusted to maintain signal-to-noise ratio >20)
-	O Spatial resolution: 100–200 µm (depending on sample and scanner)
-b. 3D DTI
-l Method: Spin echo-based DTI
-l Parameters:
-	O TE: Minimum
-	O TR: 200 ms
-	O MPG gradient duration (δ): 3.5 ms
-	O MPG gradient separation (Δ): 9.5 ms
-	O b-value: 2000 s/mm²
-	O Diffusion directions: 30
-	O Number of 1 b0 images: 5
-	O Number of averages: 1
-	O Spatial resolution: 100–200 µm
+  - Echo time (TE): 20 ms
+  - Repetition time (TR): 300 ms
+  - RARE factor: 4
+  - Number of averages: 1–8 (adjusted to maintain signal-to-noise ratio >20)
+  - Spatial resolution: 100–200 µm (depending on sample and scanner)
+## b. 3D DTI
+- Method: Spin echo-based DTI
+- Parameters:
+  - TE: Minimum
+  - TR: 200 ms
+  - MPG gradient duration (δ): 3.5 ms
+  - MPG gradient separation (Δ): 9.5 ms
+  - b-value: 2000 s/mm²
+  - Diffusion directions: 30
+  - Number of 1 b0 images: 5
+  - Number of averages: 1
+  - Spatial resolution: 100–200 µm
